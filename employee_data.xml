@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<employees>
+    <employee>
+        <id>1</id>
+        <name>Emily</name>
+        <position> Senior Project Manager</position>
+        <department> Information Technology</department>
+    </employee>
+    <employee>
+      <id>2</id>
+      <name>Raj Patel</name>
+      <position>Lead Chemist</position>
+      <department> Research and Development</department>
+  </employee>
+    <employee>
+      <id>3</id>
+      <name>Michael</name>
+      <position>Head of Human Resources</position>
+      <department>Human Resources</department>
+  </employee>
+  <employee>
+    <id>4</id>
+    <name>Hassan</name>
+    <position>Global Marketing </position>
+    <department>Marketing and Communications</department>
+</employee>
+</employees>
